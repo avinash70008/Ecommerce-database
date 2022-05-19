@@ -1,187 +1,146 @@
 [
-        {
-            "_id": "627f36f6ac3181286312e0b1",
-            "image": "https://lmsin.net/cdn-cgi/image/h=831,w=615,q=60,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/lifestyle/1000010845293-Pink-Pink-1000010845293_01-2100.jpg",
-            "title": "CODE Women Striped V-neck Top",
-            "description": "This top is defined by a striped design on the surface, along with a V-neck, a sleeveless design, and a straight hem.",
-            "price": 1000,
-            "crossprice": 1200,
-            "color": "pink",
-            "rating": 4.3,
-            "catagory": "women's clothing"
-        },
-        {
-            "_id": "627f37dbac3181286312e0b2",
-            "image": "https://lmsin.net/cdn-cgi/image/h=493,w=333,q=60,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/lifestyle/1000010443583-White-OffWhite-1000010443583_01-2100.jpg",
-            "title": "GINGER Women Striped Jumpsuit   ",
-            "description": "Tailored with elegance, this jumpsuit is tailored with a striped pattern, sleeveless structure and spaghetti neckline.",
-            "price": 1200,
-            "crossprice": 1500,
-            "color": "white",
-            "rating": 4.7,
-            "catagory": "women's clothing"
-        },
-        {
-            "_id": "627f7baaac3181286312e0b3",
-            "image": "https://lmsin.net/cdn-cgi/image/h=831,w=615,q=60,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/lifestyle/1000010422877-Black-Black-1000010422877_01-2100.jpg",
-            "title": "LATIN QUARTERS Women Shimmery Sheath Dress",
-            "description": "Defined with a shimmering detail on the surface, this sheath dress features a notch neck, cap sleeves and a mini silhouette. Sheath type, Textured design, Notched Neck",
-            "price": 20,
-            "crossprice": 50,
-            "color": "Black",
-            "rating": 4.6,
-            "catagory": "women's clothing"
-        },
-        {
-            "_id": "627f7ca1ac3181286312e0b4",
-            "image": "https://lmsin.net/cdn-cgi/image/h=831,w=615,q=60,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/lifestyle/1000010444516-Grey-Sage-1000010444516_01-2100.jpg",
-            "title": "GINGER Women Solid Round Neck Top  ",
-            "description": "This top is defined by a solid surface, along with flared sleeves and a round neck. Round Neck",
-            "price": 11,
-            "crossprice": 16,
-            "color": "Green",
-            "rating": 3.6,
-            "catagory": "women's clothing"
-        }, {
-            "_id": "627f7ec5ac3181286312e0b5",
-            "image": "https://lmsin.net/cdn-cgi/image/h=831,w=615,q=60,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/lifestyle/1000010412059-Blue-Navy-1000010412059_01-2100.jpg",
-            "title": "ALLEN SOLLY Women Solid Sleeveless Shirt Dress  ",
-            "description": "Defined by a solid hue, this shirt dress features an straight silhouette. It is complemented with a fabric belt, a spread collar and a buttoned placket.",
-            "price": 14,
-            "crossprice": 16,
-            "color": "Blue",
-            "rating": 2.5,
-            "catagory": "women's clothing"
-        }, {
-            "_id": "627f801fac3181286312e0b6",
-            "image": "https://lmsin.net/cdn-cgi/image/h=831,w=615,q=60,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/lifestyle/1000010652810-White-1000010652810_01-2100.jpg",
-            "title": "Men Striped Regular Fit U.S  Polo T-shirt",
-            "description": "Enhance your basics with this striped T-shirt designed with a polo collar and half-sleeves. Striped Design, Regular length, Cotton Fabric",
-            "price": 7,
-            "crossprice": 12,
-            "color": "White",
-            "rating": 4.5,
-            "catagory": "men's clothing"
-        }, {
-            "_id": "627f80f0ac3181286312e0b7",
-            "image": "https://lmsin.net/cdn-cgi/image/h=831,w=615,q=60,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/lifestyle/1000010437122-Green-1000010437122_01-2100.jpg",
-            "title": "KAPPA Men Printed Full Sleeves T-shirt ",
-            "description": "Up your style quotient with this printed t-shirt which has a crew neck , Sports-style and long sleeves.",
-            "price": 23,
-            "crossprice": 24,
-            "color": "Green",
-            "rating": 4,
-            "catagory": "men's clothing"
-        }, {
-            "_id": "627f81bdac3181286312e0b8",
-            "image": "https://lmsin.net/cdn-cgi/image/h=831,w=615,q=60,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/lifestyle/1000010405959-Blue-1000010405959_01-2100.jpg",
-            "title": "FORCA Men Checked Regular Fit Casual Shirt ",
-            "description": "An authentic upgrade to your everyday wardrobe, this casual shirt is designed with bold checks, spread collar, patch pocket and full sleeves.",
-            "price": 18,
-            "crossprice": 24,
-            "color": "Blue",
-            "rating": 4.2,
-            "catagory": "men's clothing"
-        }, {
-            "_id": "627f827eac3181286312e0b9",
-            "image": "https://lmsin.net/cdn-cgi/image/h=831,w=615,q=60,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/lifestyle/1000011177616-Grey-LightGrey-1000011177616_01-2100.jpg",
-            "title": "KAPPA Men Printed Regular Fit Hooded T-shirt ",
-            "description": "Add versatility to your basic look with this casual printed T-shirt designed with a hooded neckline and full sleeves. Type-Hooded",
-            "price": 20,
-            "crossprice": 21,
-            "color": "White",
-            "rating": 2.2,
-            "catagory": "men's clothing"
-        }, {
-            "_id": "627f85bbac3181286312e0ba",
-            "image": "https://m.media-amazon.com/images/I/51HBom8xz7L._SX425_.jpg",
-            "title": "boAt Airdopes 141 True Wireless Earbuds ",
-            "description": "Playback- Enjoy an extended break on weekends with your favourite episodes on stream, virtue of a playback time of up to 42 hours including the 6 hours nonstop playtime for earbuds.",
-            "price": 18,
-            "crossprice": 21,
-            "color": "black",
-            "rating": 4.9,
-            "catagory": "electronics"
-        }, {
-            "_id": "627f86c7ac3181286312e0bb",
-            "image": "https://m.media-amazon.com/images/I/719tm7l723L._SY741_.jpg",
-            "title": "realme narzo 30 5G (6GB RAM, 128GB Storage)  ",
-            "description": "6 GB RAM , 128 GB ROM , Expandable Upto 1 TB, 16.51 cm (6.5 inch) Full HD+ Display, 48MP + 2MP + 2MP, 16MP Front Camera 5000 mAh Battery",
-            "price": 58,
-            "crossprice": 61,
-            "color": "Racing Blue",
-            "rating": 4.6,
-            "catagory": "electronics"
-        }, {
-            "_id": "627f95b2ac3181286312e0bc",
-            "image": "https://m.media-amazon.com/images/I/61vtLhO6fDL._SY679_.jpg",
-            "title": "Apple 20W USB-C Power Adapter (iPhone, iPad & AirPods)",
-            "description": "The Apple 20W USB-C Power Adapter offers fast, efficient charging at home, in the office, or on the go.",
-            "price": 10,
-            "crossprice": 10,
-            "color": "White",
-            "rating": 4.2,
-            "catagory": "electronics"
-        }, {
-            "_id": "627f96ceac3181286312e0bd",
-            "image": "https://images-eu.ssl-images-amazon.com/images/I/412hYHFcGjL._SX300_SY300_QL70_FMwebp_.jpg",
-            "title": "HP Pavilion Gaming AMD Ryzen 5 15.6 inches Laptop ",
-            "description": "Operating System & Pre-installed Software: Pre-loaded Windows 10 Home with lifetime validity| Microsoft Office Home & Student 2019 | Free upgrade to Windows 11 when available* . Processor: AMD Ryzen 5 5600H (up to 4.2 GHz max boost clock, 16MB L3 cache, 6 cores) | Memory: 8 GB DDR4-3200 (1 x 8 GB), Upgradable upto 16GB | Storage: 512 GB PCIe NVMe M.2 SSD",
-            "price": 130,
-            "crossprice": 200,
-            "color": "Black",
-            "rating": 3.8,
-            "catagory": "electronics"
-        }, {
-            "_id": "627faa8bac3181286312e0be",
-            "image": "https://m.media-amazon.com/images/I/51I15a5JNTL._UY625_.jpg",
-            "title": "ASIAN Men's Plasma-05 Running Shoes",
-            "description": "New, Breathable air mesh upper which is easily washable, perfect for all seasons - winter, summer and rainy, designed to give you the most comfortable fitting",
-            "price": 14,
-            "crossprice": 20,
-            "color": "Black",
-            "rating": 3,
-            "catagory": "shoes"
-        }, {
-            "_id": "627facabac3181286312e0bf",
-            "image": "https://m.media-amazon.com/images/I/61+nOKoI3XL._UY695_.jpg",
-            "title": "Campus Men's MAGNITE Running Shoes",
-            "description": "Sole: Rubber, Closure: Lace-Up, Shoe Width: Medium, Lifestyle: Running Shoes, Warranty Type: Manufacturer. Allow your pair of shoes to air and de-odorize at a regular basis, this also helps them retain their natural shape; use shoes bags to prevent any stains or mildew; dust any dry dirt from the surface using a clean cloth, do not use polish or shiner",
-            "price": 34,
-            "crossprice": 40,
-            "color": "White",
-            "rating": 5,
-            "catagory": "shoes"
-        }, {
-            "_id": "627fadb0ac3181286312e0c0",
-            "image": "https://m.media-amazon.com/images/I/61pmIvqpXLL._UY500_.jpg",
-            "title": "ASIAN Women's Elasto-02 Shoes",
-            "description": "Sole: Ethylene Vinyl Acetate, Closure: Pull On, Heel Height: 1.2 inches, Shoe Width: Medium, Upper Features: New, Breathable knitted upper which is easily washable, perfect for all seasons - winter, summer and rainy, designed to give you the most comfortable fitting.",
-            "price": 27,
-            "crossprice": 30,
-            "color": "Maroon",
-            "rating": 4.1,
-            "catagory": "shoes"
-        }, {
-            "_id": "627fae70ac3181286312e0c1",
-            "image": "https://m.media-amazon.com/images/I/81L6VUuePaL._UY500_.jpg",
-            "title": "Campus Women's Brownie Running Shoes",
-            "description": "Care Instructions: Allow your pair of shoes to air and de-odorize at a regular basis, this also helps them retain their natural shape; use shoe bags to prevent any stains or mildew; dust any dry dirt from the surface using a clean cloth, do not use polish or shiner     ",
-            "price": 23,
-            "crossprice": 24,
-            "color": "OFF WhT/MSTD",
-            "rating": 3.5,
-            "catagory": "shoes"
-        }, {
-            "_id": "627faf41ac3181286312e0c2",
-            "image": "https://m.media-amazon.com/images/I/81zaB-R0WgL._UX500_.jpg",
-            "title": "",
-            "description": "Crafted with fine technology and futuristic design, PUMA shoe is surely here to uplift your style and track games. Kick off on street and field in this shoe from the world’s leading and much loved sports brand, PUMA",
-            "price": 25,
-            "crossprice": 30,
-            "color": "Foxglove-Pristine",
-            "rating": 4.7,
-            "catagory": "shoes"
-        }
+    {
+        "name": "Mutton Korma",
+      "prices": "300",
+        "category": "nonveg",
+        "image": "https://i.ndtvimg.com/i/2015-03/badam-korma_625x350_41426244081.jpg",
+        "description": "A flavourful mutton curry, where the meat is stirred with curd, garlic-ginger paste, cloves, cardamom and cinnamon sticks.",
+        
+    },
+
+    {
+        "name": "Pina Colada Pork Ribs",
+      "prices": "450",
+        "category": "nonveg",
+        "image": "https://i.ndtvimg.com/i/2015-02/pork_625x350_81424765044.jpg",
+        "description": "The ingredients of the popular rum-based cocktail team up with pork ribs to create a lip-smacking treat. Pork is slow roasted to soak in the flavours, and the kick of ginger gives it an interesting edge.",
+       
+    },
+
+    {
+        "name": "Tandoori Lamb Chops",
+      "prices": "280",
+        "category": "nonveg",
+        "image": "https://i.ndtvimg.com/i/2016-06/lamb-chops_625x350_51466768845.jpg",
+        "description": "Lamb chops marinated in strained yogurt and flavoursome masalas. Cooked till tender, this dish is guaranteed to impress.",
+       
+    },
+
+    {
+        "name": " Malabar Fish Biryani",
+      "prices": "150",
+        "category": "nonveg",
+        "image": "https://i.ndtvimg.com/i/2016-11/biryani-620_620x350_41478678907.jpg",
+        "description": "This classic Malabar Fish Biryani can be devoured at all times. Enjoy the delicious taste of this ever-charming dish.",
+        
+    },
+
+    {
+        "name": "Keema Samosa with Yoghurt Dip",
+      "prices": "100",
+        "category": "veg",
+        "image": "https://i.ndtvimg.com/i/2017-01/samosa_620x350_81485494818.jpg",
+        "description": "Make this ultimate Punjabi snack from scratch. Dough pockets stuffed with keema masala mixture, fried golden and served with a refreshing hung curd dip.",
+       
+    },
+
+    {
+        "name": "Curried Parmesan Fish Fingers",
+      "prices": "280",
+        "category": "nonveg",
+        "image": "https://i.ndtvimg.com/i/2016-03/fish-finger_625x350_51458388088.jpg",
+        "description": "Tender fish pieces are cut into pieces, wrapped in batter and fried to perfection. Team this with ketchup, mayo or mustard sauce and you're sorted for the evening.",
+       
+    },
+
+    {
+        "name": "Chicken 65",
+      "prices": "270",
+        "category": "nonveg",
+        "image": "https://i.ndtvimg.com/i/2015-07/chicken-65_625x350_61436162562.jpg",
+        "description": "Chicken 65 is said to have originated in Madras (Chennai). This delicious, deep-fried recipe of Chicken 65 is from the house of Tamil Nadu. A popular and easy-to-make snack recipe, fried, full of spice with the flavours of ginger, garlic and chillies.",
+       
+    },
+
+
+    {
+        "name": "Goan Prawn Curry With Raw Mango",
+      "prices": "450",
+        "category": "nonveg",
+        "image": "https://i.ndtvimg.com/i/2016-06/prawn-curry-625_625x350_51467122026.jpg",
+        "description": "Luscious prawns bathed in a burst of flavours to cook up a brilliant Goan delicacy, enjoy! A perfect seafood, winter recipe that you can pair with rice. ",
+       
+    },
+
+
+    {
+        "name": "Nihari Gosht",
+      "prices": "400",
+        "category": "nonveg",
+        "image": "https://i.ndtvimg.com/i/2015-09/nihari_625x350_41443159772.jpg",
+        "description": "A traditional Muslim dish, where the meat almost blends with the gravy. Nihari traditionally means a slow cooked mutton stew, which is said o be originated in the Awadhi kitchen of Lucknow. A popular dish in Pakistan and Bangladesh, Nihari is also considered to be the national dish of Pakistan. The hint of rose water gives this a perfect finish.",
+       
+    },
+
+
+    {
+        "name": "Butter Chicken",
+      "prices": "200",
+        "category": "nonveg",
+        "image": "https://i.ndtvimg.com/i/2018-01/butter-chicken_620x350_51517373579.jpg",
+        "description": "Keeping the classic at the last! Butter chicken is one-of-a-kind recipe that's been passed down from one generation to another and holds a permanent spot on India's menu. This recipe of Butter Chicken from Moti Mahal is easy to follow and makes for an instant conversation-starter!",
+       
+    },
+
+
+    {
+        "name": "Hyderabadi Chicken Fry",
+      "prices": "500",
+        "category": "nonveg",
+        "image": "https://i.ndtvimg.com/i/2018-01/fried-chicken_696x400_51514877919.jpg",
+        "description": "The Hyderabadi chicken fry is the perfect appetizer for impromptu guest gatherings or any special occasion – It has a fairly simple recipe but will give you an immensely juicy and flavorful chicken dish.",
+     
+    },
+
+
+    {
+        "name": "Hyderabadi Keema",
+      "prices": "300",
+        "category": "nonveg",
+        "image": "https://c.ndtvimg.com/2019-12/o1l745m8_keema-matar_625x300_11_December_19.jpg",
+        "description": "This Hyderabadi mutton keema recipe accentuates the taste of keema and makes a mouth-watering masaledaar dish. It would taste great with some rotis or pair it with some tandoori naan.",
+       
+    },
+
+
+    {
+        "name": "Caponata pasta",
+      "prices": "180",
+        "category": "veg",
+        "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/caponata-pasta-a0027c4.jpg?quality=90&webp=true&resize=300,272",
+        "description": "Whip up our easy vegetarian caponata pasta in just 20 minutes. It's simple to make, budget-friendly and packs three of your five-a-day into one delicious meal",
+     
+    },
+
+
+    {
+        "name": "Spanish potatoes",
+      "prices": "100",
+        "category": "veg",
+        "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/recipe-image-legacy-id-488484_11-ecf4ff0.jpg?quality=90&webp=true&resize=300,272",
+        "description": "These smoky, spiced potatoes are a great accompaniment for white fish or chicken",
+     
+    },
+
     
-    ]
+    {
+        "name": "Oven-baked rösti cake",
+      "prices": "300",
+        "category": "nonveg",
+        "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/recipe-image-legacy-id-1079521_10-d837715.jpg?quality=90&webp=true&resize=300,272",
+        "description": "Grate potatoes into a hash brown-style patty and cook in the oven for a convenient and tasty side dish",
+        
+    }
+
+
+]

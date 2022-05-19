@@ -7,8 +7,7 @@
      description:{type:String,require:true},
      price:{type:Number , require:true},
      category:{type:String ,require:true },
-     image:{type:Number , require:true},
-     rating:{type:Array,require:true}
+     image:{type:Number , require:true}
 
  },{
      versionKey:false,
